@@ -23,21 +23,6 @@ Topics covered in the above case study:
 * Trending Lines for Power-Insights
 * Creating a StoryLine
 
-Images of Coal Terminal:
-<img src="https://github.com/prtk1306/MachineLearning/blob/master/1.png" alt="drawing" width="200"/>
-<img src="https://github.com/prtk1306/MachineLearning/blob/master/2.png" alt="drawing" width="200"/>
-<img src="https://github.com/prtk1306/MachineLearning/blob/master/3.png" alt="drawing" width="200"/>
-<img src="https://github.com/prtk1306/MachineLearning/blob/master/4.png" alt="drawing" width="200"/>
-<img src="https://github.com/prtk1306/MachineLearning/blob/master/5.png" alt="drawing" width="200"/>
-<img src="https://github.com/prtk1306/MachineLearning/blob/master/6.png" alt="drawing" width="200"/>
-<img src="https://github.com/prtk1306/MachineLearning/blob/master/7.png" alt="drawing" width="200"/>
-<img src="https://github.com/prtk1306/MachineLearning/blob/master/8.png" alt="drawing" width="200"/>
-<img src="https://github.com/prtk1306/MachineLearning/blob/master/9.png" alt="drawing" width="200"/>
-<img src="https://github.com/prtk1306/MachineLearning/blob/master/10.png" alt="drawing" width="200"/>
-<img src="https://github.com/prtk1306/MachineLearning/blob/master/11.png" alt="drawing" width="200"/>
-<img src="https://github.com/prtk1306/MachineLearning/blob/master/12.png" alt="drawing" width="200"/>
-<img src="https://github.com/prtk1306/MachineLearning/blob/master/13.png" alt="drawing" width="200"/>
-<img src="https://github.com/prtk1306/MachineLearning/blob/master/14.png" alt="drawing" width="200"/>
-<img src="https://github.com/prtk1306/MachineLearning/blob/master/15.png" alt="drawing" width="200"/>
+
 
 Citation: https://www.udemy.com/, https://www.dbct.com.au/
